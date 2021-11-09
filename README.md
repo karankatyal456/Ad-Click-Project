@@ -14,16 +14,29 @@ Identifying the type of variables: Identifying the nature of different columns (
 10.	Accuracy measures: Obtain the confusion matrix. Obtain the “overall” value of accuracy, Precision, Recall/Sensitivity, Specificity, Balanced accuracy, F1-score.
 # Variable Description
 This data set contains the following features:
+
 'Time_Spent': Average time spent by user on site in minutes
+
 'Age': User age in years
+
 'Area_Income': Average Income of geographical area of user
+
 'Internet_Usage': Average minutes a day user spent on the internet
+
 'Ad_Topic’: Headline of the advertisement
+
 'Country_Name': Country of user
+
 'City_Code': City of user
+
 'Male': Whether or not user was male
+
 ‘Time_Period’: Time at which consumer clicked on Ad
+
 ‘Weekday’: Name of the day
+
 ‘Month’: Name of the months
+
 ‘Year’: Which year the data is collected
+
 'Clicked': 0 means not clicked and 1 means that user clicked the Ad.
